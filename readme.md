@@ -6,5 +6,5 @@ Muestra 1
 - como clonar desde la consola
 - y hasta ahi llegue porque estoy viendo el video
 
-[Archivo 1](Archivo1.md)
-[Archivo 2](Archivo2.html)
+- [Archivo 1](Archivo1.md)
+- [Archivo 2](Archivo2.html)
